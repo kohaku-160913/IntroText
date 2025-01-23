@@ -26,3 +26,52 @@
 ## Complete the assignment in your new repository
 - In your new repository edit the `README.md` according to instructions from the `Instructions.md` file.
 - Use the [autograder instructions](autograder_instructions.md) to find your way around your new repo.
+
+## Number Row Characters
+- ! - Exclamation mark
+- @ - At symbol
+- # - The number sign
+- $ - Dollar sign
+- % - Percent sign
+- ^ - Caret
+- & - Ampersand
+- * - Asterisk
+- ( - Left parenthesis
+- ) - Right parenthesis
+- " - Quotation mark
+- ' - Apostrophe
+- + - Plus sign
+- , - Comma
+- - - Hyphen
+- . - Period
+- / - Forward slash
+- \ - Back slash
+- < - Less-than sign
+- > - Greater-than sign
+- ? - Question mark
+- ; - Semicolon
+- : - Colon
+- = - Equals sign
+- [ - Left square brackets
+- ] - Right square brackets
+- { - Left curly brace
+- } - Right curly brace
+- _ - Underscore
+- ` - Grave accent
+- | - Vertical bar
+- ~ - Tilde
+
+## Links
+
+
+## Emojis
+- :smile: becomes 
+- :sad: becomes 
+- :angry: becomes 
+- :happy: becomes 
+- :funny: becomes 
+- :scared: becomes 
+- :loved: becomes 
+- :embarrassed: becomes 
+- :sick: becomes 
+- :annoyed: becomes 
