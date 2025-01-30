@@ -41,7 +41,16 @@ Shortcuts I would like to start using:
 - Win-D (show desktop)
 - Super-Hyper-Meta-F (I don’t even have such keys, but it sounds impressive)
 ```
+## Keyboard shortcuts
+Shortcuts I frequently use:
+- Ctrl-C (copy selected item)
+- Ctrl-X (cut selected item)
+- Ctrl-V (paste selected item)
 
+Shortcuts I would like to start using:
+- Ctrl-N (new window)
+- Ctrl-O (open a file)
+- Ctrl-S (save file)
 
 ## Step 4 - Search
 Copy the following block into your README file
